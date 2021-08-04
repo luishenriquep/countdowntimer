@@ -4,7 +4,15 @@
 ![Luisbarros](https://img.shields.io/static/v1?label=Luis&nbsp;Barros&message=-&color=8257E5&labelColor=000000)  ![License](https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000)
 
 
-[Tecnologias](##-tecnologias)  **&emsp;**| **&emsp;**[Projeto](## - projeto) **&emsp;** | **&emsp;**[Layout](##-layout)**&emsp;** | **&emsp;**[Executando](##-como-executar) **&emsp;** | **&emsp;** [Licença](##-licenca)
+[Tecnologias](##-tecnologias)  **&emsp;**| **&emsp;**[Projeto](##-projeto) **&emsp;** | **&emsp;**[Layout](##-layout)**&emsp;** | **&emsp;**[Executando](##-como-executar) **&emsp;** | **&emsp;** [Licença](##-licenca)
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
+</p>
 
 
 ![enter image description here](https://lh3.googleusercontent.com/pw/AM-JKLUmDJNjHvKAeIJ2XAln37DEykYdZtVgloqltt-aYkrSmBZhcJBaN4b9tVuHRATN89q_TQwuuw2F1hSiF1Z0ONSKApJiJNwVqPqYLQjx8vcD_6BND4wzF3TPEmTHB8H6zPXmE_yDAl5Qza2QNGi5uYWA=w1008-h623-no)
