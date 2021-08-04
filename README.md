@@ -1,70 +1,43 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# CountdownTimer
+![Luisbarros](https://img.shields.io/static/v1?label=Luis&nbsp;Barros&message=-&color=8257E5&labelColor=000000)  ![License](https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000)
 
-In the project directory, you can run:
 
-### `yarn start`
+[Tecnologias](##-tecnologias)  **&emsp;**| **&emsp;**[Projeto](##-projeto) **&emsp;** | **&emsp;**[Layout](##-layout)**&emsp;** | **&emsp;**[Executando](##-como-executar) **&emsp;** | **&emsp;** [Licença](##-licenca)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+![enter image description here](https://lh3.googleusercontent.com/pw/AM-JKLUmDJNjHvKAeIJ2XAln37DEykYdZtVgloqltt-aYkrSmBZhcJBaN4b9tVuHRATN89q_TQwuuw2F1hSiF1Z0ONSKApJiJNwVqPqYLQjx8vcD_6BND4wzF3TPEmTHB8H6zPXmE_yDAl5Qza2QNGi5uYWA=w1008-h623-no)
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ✨ Tecnologias
 
-### `yarn build`
+Esse projeto foi desenvolvido utilizando tecnologia [React](https://reactjs.org)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 💻 Projeto
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+CountdownTimer é um app exemplo para cronometra datas que o usuário achar importante.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🔖 Layout
 
-### `yarn eject`
+Você pode visualizar o layout do projeto através acima[ clicando aqui](#countdowntimer) 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🚀 Como executar
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Clone o repositório
+- Instale as dependências com `yarn`
+- Inicie o servidor com `yarn dev`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 📄 Licença
 
-## Learn More
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Desenvolvido por [Luis Henrique P Barros](https://github.com/luishenriquep) 👋🏻 
 
-### Code Splitting
+ **Google Drive**, **Dropbox** or **GitHub**.
+	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
