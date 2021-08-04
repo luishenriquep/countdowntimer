@@ -7,14 +7,6 @@
 [Tecnologias](#-tecnologias)  **&emsp;**| **&emsp;**[Projeto](#-projeto) **&emsp;** | **&emsp;**[Layout](##-layout)**&emsp;** | **&emsp;**[Executando](##-como-executar) **&emsp;** | **&emsp;** [Licença](##-licenca)
 
 
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-executar">Executando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
-
-
-
 ![enter image description here](https://lh3.googleusercontent.com/pw/AM-JKLUmDJNjHvKAeIJ2XAln37DEykYdZtVgloqltt-aYkrSmBZhcJBaN4b9tVuHRATN89q_TQwuuw2F1hSiF1Z0ONSKApJiJNwVqPqYLQjx8vcD_6BND4wzF3TPEmTHB8H6zPXmE_yDAl5Qza2QNGi5uYWA=w1008-h623-no)
 
 
